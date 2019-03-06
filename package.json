@@ -27,7 +27,8 @@
     "mdns-discovery": "^0.1.9",
     "soef": "^0.4.9",
     "tr-O64": "^0.2.4",
-    "xml2js": "^0.4.17"
+    "xml2js": "^0.4.17",
+    "@iobroker/adapter-core": "^1.0.3"
   },
   "devDependencies": {
     "mocha": "^4.1.0",
